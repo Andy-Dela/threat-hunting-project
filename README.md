@@ -34,7 +34,7 @@ Pivoting back into Splunk, I confirmed that a host on the network had actually c
 
 | File/Folder | Description |
 |-------------|-------------|
-| [THREAT-HUNT-REPORT.md](threat-hunting-powershell/THREAT-HUNT-REPORT.md) | Full investigation report |
+| [Threat-hunt-report.md](threat-hunting-powershell/Threat-hunt-report.md) | Full investigation report |
 | [decoded-payload.txt](threat-hunting-powershell/decoded-payload.txt) | The decoded malicious PowerShell script |
 | [queries/](threat-hunting-powershell/queries/) | All Splunk queries used during the hunt |
 | [screenshots/](threat-hunting-powershell/screenshots/) | Visual evidence captured at each stage |
