@@ -1,0 +1,3 @@
+index=* powershell.exe "-e" OR "-enc"
+| table _time, host, CommandLine
+| sort - _time

@@ -1,0 +1,3 @@
+index=* powershell.exe (dest_port=443 OR dest_port=80)
+| stats count by src_ip, dest_ip, dest_port
+| sort - count

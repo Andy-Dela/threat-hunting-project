@@ -1,0 +1,1 @@
+index=* powershell.exe | stats count by host | sort - count
